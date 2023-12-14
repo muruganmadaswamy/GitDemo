@@ -1,0 +1,12 @@
+[
+{
+	"email" 	: "murugan.madaswamy@gmail.com",
+	"password" 	: "Pass@123",
+	"product" 	: "ZARA COAT 3"
+},
+{
+	"email" 	: "murugan.madaswamy@yahoo.com",
+	"password" 	: "Pass@123",
+	"product" 	: "ADIDAS ORIGINAL"
+}
+]
