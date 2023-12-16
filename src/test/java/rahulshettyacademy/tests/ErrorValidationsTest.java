@@ -30,6 +30,8 @@ public class ErrorValidationsTest extends BaseTest{
 		System.out.println("postJira5");
 		System.out.println("postJira6");
 		System.out.println("postJira7");
+		//I am asian architect
+		System.out.println("postJira8");
 		
 	}
 	@Test
